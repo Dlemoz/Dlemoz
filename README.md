@@ -39,6 +39,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/Dlemoz/Dlemoz/blob/output/snake.yml" alt="Snake animation" />
+<img href="https://github.com/Dlemoz/Dlemoz/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
