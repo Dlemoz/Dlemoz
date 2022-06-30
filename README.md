@@ -2,6 +2,10 @@
 
 ###
 
+<img align="right" height="150" src="https://1.bp.blogspot.com/-3cXBan3IIcE/X_d9j9hzGcI/AAAAAAAAOKY/MAL_EcQJ5nUfdR2LkTbWvfMr5IHOpPGagCLcBGAsYHQ/s480/black%2Bhole.gif"  />
+
+###
+
 <p align="left">Iniciante e apaixonado pelo mundo da programação. <br><br>🚀 Buscando projetos em Front-end<br>💻 Minha stack: JavaScript, HTML, CSS & Python<br>💭 Sobre mim: Curioso,  amante da ciência e gamer.</p>
 
 ###
@@ -30,15 +34,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="150" src="https://1.bp.blogspot.com/-3cXBan3IIcE/X_d9j9hzGcI/AAAAAAAAOKY/MAL_EcQJ5nUfdR2LkTbWvfMr5IHOpPGagCLcBGAsYHQ/s480/black%2Bhole.gif"  />
-
-###
-
-<br clear="both">
-
-
 
 ###
