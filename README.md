@@ -1,14 +1,44 @@
+<h1 align="left">Douglas Lemos 👋!</h1>
 
-### Olá, Eu sou o Douglas Lemos 😁✌️
+###
 
-[![LinkeDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-lemos-de-oliveira/) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Dlemoliver) 
+<p align="left">Iniciante e apaixonado pelo mundo da programação. <br><br>🚀 Buscando projetos em Front-end<br>💻 Minha stack: JavaScript, HTML, CSS & Python<br>💭 Sobre mim: Curioso,  amante da ciência e gamer.</p>
 
-![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=Dlemoz&show_icons=true&theme=radical)
+###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dlemoz)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Dlemoz" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Dlemoz" height="150" alt="languages graph"  />
+</div>
 
-A vida é uma grande obra, e eu estarei sempre em construção. 
+###
 
-## Meu e-mail para contato
-lemos.douglasoliveira@gmail.com 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="mailto:lemos.douglasoliveira@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/douglas-lemos-de-oliveira/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<img align="right" height="150" src="https://1.bp.blogspot.com/-3cXBan3IIcE/X_d9j9hzGcI/AAAAAAAAOKY/MAL_EcQJ5nUfdR2LkTbWvfMr5IHOpPGagCLcBGAsYHQ/s480/black%2Bhole.gif"  />
+
+###
+
+<br clear="both">
+
+<img href="https://raw.githubusercontent.com/Dlemoz/Dlemoz/blob/output/snake.svg" alt="Snake animation" />
+
+###
