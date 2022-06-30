@@ -39,6 +39,6 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/Dlemoz/Dlemoz/blob/output/github-contribution-grid-snake.svg)
+<img href="https://raw.githubusercontent.com/Dlemoz/Dlemoz/blob/output/snake.svg" alt="Snake animation" />
 
 ###
