@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Iniciante e apaixonado pelo mundo da programação. <br><br>🚀 Estou sempre em construção>💻 Minha stack: JavaScript, HTML, CSS<br>💭 Sobre mim: Estou sempre estudando linguagem de programação, possuo vários certificados na área. Gosto muito de me comunicar de forma bem clara, me considero bastante curioso e sempre em busca de resolver problemas. Sou um amante da ciência e dos desafios que nela possue.</p>
+<p align="left">Iniciante e apaixonado pelo mundo da programação. <br><br>🚀 Estou sempre em construção<br>💻 Minha stack: JavaScript, HTML, CSS<br>💭 Sobre mim: Estou sempre estudando linguagem de programação, possuo vários certificados na área. Gosto muito de me comunicar de forma bem clara, me considero bastante curioso, sou adaptável a qualquer ambiente e  disposto a estar resolvendo problemas. Sou um amante da ciência e dos desafios que nela possue. </p>
 
 ###
 
