@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Iniciante e apaixonado pelo mundo da programação. <br><br>🚀 Buscando projetos em Front-end<br>💻 Minha stack: JavaScript, HTML, CSS & Python<br>💭 Sobre mim: Curioso,  amante da ciência e gamer.</p>
+<p align="left">Iniciante e apaixonado pelo mundo da programação. <br><br>🚀 Buscando projetos em Front-end<br>💻 Minha stack: JavaScript, HTML, CSS<br>💭 Sobre mim: Curioso,  amante da ciência e gamer.</p>
 
 ###
 
